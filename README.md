@@ -40,4 +40,4 @@ services:
 
 ## Example route
 
-!(https://github.com/patryk-pszeniczny/kafka-example/blob/main/diagram_kafka.png)
+![Screen Shot](https://github.com/patryk-pszeniczny/kafka-example/blob/main/diagram_kafka.png)
