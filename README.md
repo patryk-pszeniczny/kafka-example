@@ -40,4 +40,4 @@ services:
 
 ## Example route
 
-![Screenshot-2022-01-21-at-16 46 10](https://github.com/jordanmruczynski/kafka-example/assets/50798031/7560a6e4-f4af-46e5-8fc6-c831fcb4de27)
+!(https://github.com/patryk-pszeniczny/kafka-example/blob/main/diagram_kafka.png)
